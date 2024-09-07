@@ -1,8 +1,8 @@
-#check this website on
+## check this website on
 ## URL: https://housebookmax.netlify.app/
 
-# Follow these steps to run the project:
-# React.js Project
+## Follow these steps to run the project:
+## React.js Project
 
 
 
@@ -26,9 +26,10 @@ First, clone the repository to your local machine using:
 
 ```bash
 git clone https://github.com/rakeshkr8888/CIRCLEPE
+```
 
 
-# About project
+## About project
 ## Technology : HTML, CSS, bootstrap, javascript, Reactjs, nodejs
 
 # React + Vite
