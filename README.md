@@ -28,9 +28,20 @@ First, clone the repository to your local machine using:
 git clone https://github.com/rakeshkr8888/CIRCLEPE
 ```
 
+Navigate to the project directory:
+```cd your-repo-name```
+
+### 2. Install Dependencies
+Install the required npm packages:
+```npm install```
+
+### 3. Run the Project
+Start the development server:
+```npm run dev```
 
 ## About project
-## Technology : HTML, CSS, bootstrap, javascript, Reactjs, nodejs
+# Technology : HTML, CSS, bootstrap, javascript, Reactjs, nodejs
+
 
 # React + Vite
 
